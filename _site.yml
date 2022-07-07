@@ -1,0 +1,19 @@
+name: "Roberto Gomez"
+output_dir: docs
+navbar:
+  title: "Roberto Gomez"
+  left:
+    - text: "Mi CV"
+      href: index.html
+    - text: "Markdown GIT"
+      href: markdown-git.html
+    - text: "Markdown Firebase"
+      href: markdown-firebase.html
+    - text: "Shiny"
+      href: shiny.html
+    - text: "Hadoop Google"
+      href: hadoop-google.html
+    - text: "Hadoop VirtualBox"
+      href: hadoop-virtualbox.html  
+    - text: "Acerca de"
+      href: about.html
